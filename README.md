@@ -82,7 +82,7 @@ QuineMcCluskeyStateMachine is a Python application designed to simulate an async
                                               \    +-----------------+
                                                \   |                 |
                                                 -->| Visualization   |
-                                                   | (Circuit Diagram)|
+                                                   |(Circuit Diagram)|
                                                    |                 |
                                                    +-----------------+
 ```
@@ -118,9 +118,9 @@ QuineMcCluskeyStateMachine is a Python application designed to simulate an async
                                                          | Calculate Hamming       |
                                                          | Distances               |
                                                          |                         |
-                                                         +----------------
+                                                         +-------------------------+
 
----------+
+
                                                                    |
                                                                    V
                                                          +-------------------------+
@@ -144,7 +144,6 @@ To run the project, clone the repository and install necessary dependencies:
 ```
 git clone https://github.com/elsilaves/QuineMcCluskeyStateMachine.git
 cd QuineMcCluskeyStateMachine
-pip install -r requirements.txt
 ```
 
 ## Usage
